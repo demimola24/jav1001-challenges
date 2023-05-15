@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.twoNumSum
+import jchallenges.twoNumSum
 
 object TwoNumSumTester {
     private val t1 = Pair(listOf(22), 7)

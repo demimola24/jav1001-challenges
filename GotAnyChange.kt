@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* Given a list representing the values of coins that you possess, write a function that returns
  * the minimum amount of change that you CANNOT create. You may multiple coins with the same value.

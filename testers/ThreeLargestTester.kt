@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.threeLargest
+import jchallenges.threeLargest
 
 object ThreeLargestTester {
     private val t1 = listOf(22, 7, 15)

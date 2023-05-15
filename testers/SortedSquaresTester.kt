@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.sortedSquares
+import jchallenges.sortedSquares
 
 object SortedSquaresTester {
     private val t1 = listOf(1, 2, 3, 5, 6, 8, 9, 10)

@@ -1,9 +1,9 @@
-package challenges
+package jchallenges
 
-import challenges.testers.*
+import jchallenges.testers.*
 
 fun main() {
-    // SortedSquaresTester.run()
+     SortedSquaresTester.run()
     // TwoNumSumTester.run()
     // ThreeLargestTester.run()
     // GotAnyChangeTester.run()

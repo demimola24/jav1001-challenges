@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.minWaitTime
+import jchallenges.minWaitTime
 
 object MinWaitTimeTester {
     private val t1 = listOf(17, 4, 3)

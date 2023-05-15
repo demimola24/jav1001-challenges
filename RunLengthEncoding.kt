@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* Write a function that takes in a string and returns its run-length encoding.
 *

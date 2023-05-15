@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.runLengthEncoding
+import jchallenges.runLengthEncoding
 
 object RunLengthEncodingTester {
     private val t1 = "AAAAAAAAAAAAABBCCCCDDDDDDDDDDD"

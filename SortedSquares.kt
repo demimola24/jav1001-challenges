@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* Write a function that takes in an integer list as a parameter and returns a new list
  * of the same length with the squares of the original integers sorted in ascending order.
@@ -10,5 +10,5 @@ package challenges
  */
 
 fun sortedSquares(list: List<Int>): List<Int> {
-    return mutableListOf()
+    return list.toMutableList().sorted()
 }

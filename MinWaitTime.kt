@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* You are given a list containing the amounts of time specific queries take to execute. Queries can only be
  * executed one at a time but you can execute the queries in any order.

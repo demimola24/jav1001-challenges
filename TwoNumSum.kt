@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* Write a function that takes in an integer list and an integer representing a target sum. Determine if any TWO integers in the
  * list sum to the given target. If this condition is met, return the two integers in a list. If no two numbers in the list

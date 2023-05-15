@@ -1,4 +1,4 @@
-package challenges.testers
+package jchallenges.testers
 
 import kotlin.jvm.Throws
 

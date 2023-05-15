@@ -1,6 +1,6 @@
-package challenges.testers
+package jchallenges.testers
 
-import challenges.gotAnyChange
+import jchallenges.gotAnyChange
 
 object GotAnyChangeTester {
     private val t1 = listOf(22, 7, 1, 1, 2, 3, 5)

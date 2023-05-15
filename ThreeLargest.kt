@@ -1,4 +1,4 @@
-package challenges
+package jchallenges
 
 /* Write a function that takes in an integer list and returns a list containing the three largest integers in the input list.
  * Do this without sorting the input list and ensure the returned list is sorted in ascending order.
